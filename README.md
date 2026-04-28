@@ -7,7 +7,7 @@
 
 ### Stack
 
-<img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png" height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> |
+<img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 25px" width=" 25px"></img> | <img src="[https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png](https://hermes.dio.me/skills/90bbc921-1c8d-4d4d-bb65-0810891795e1.png)" height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> |
 
 
 
