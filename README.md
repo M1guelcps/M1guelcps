@@ -1,11 +1,21 @@
 ## Hi there 👋
 
+Sobre mim:
+
+
+
+
+Cursando:
+
+3 semestre de análise de dados na Unifor
+
+
 
 
 Bootcamps concluídos
 
-<img src="https://assets.dio.me/W6Z-2zohBDfZ1U1ULeJJwYyLxaWHmP7FuTtB4rMqRyY/f:webp/h:120/q:80/L3RyYWNrcy8xNTU1ODQ2Ny02YjgxLTQ3ODAtODQzOS02N2EyZjU0NjBmMjgucG5n" width="100" height=" 100px">
-TOTVS - Fundamentos de Engenharia de Dados e Machine Learning
+<img src="https://assets.dio.me/W6Z-2zohBDfZ1U1ULeJJwYyLxaWHmP7FuTtB4rMqRyY/f:webp/h:120/q:80/L3RyYWNrcy8xNTU1ODQ2Ny02YjgxLTQ3ODAtODQzOS02N2EyZjU0NjBmMjgucG5n" width="100" height=" 100px"> <img src="https://assets.dio.me/0oZ3rvm63UDiHP-IbWyVBaC5R8cUxF_JcqtTvyGdHvA/f:webp/h:120/q:80/L3RyYWNrcy8wOWI2NGMyZS1lNzE5LTRiNWYtOGQyMi1hMzY3OWIyYzFjZGQucG5n" width="100" height=" 100px">
+TOTVS - Fundamentos de Engenharia de Dados e Machine Learning          Santander 2025 - Ciência de Dados com Python
 <!--
 **M1guelcps/M1guelcps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
