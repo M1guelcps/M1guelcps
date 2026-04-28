@@ -5,9 +5,9 @@
 
 
 
-### stack
+### Stack
 
-<img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png"></img>
+<img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png" height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> | <img src="https://hermes.dio.me/skills/7c8b20c8-af95-4c24-87ae-be37695d1f0a.png " height=" 50px" width=" 50px"></img> |
 
 
 
