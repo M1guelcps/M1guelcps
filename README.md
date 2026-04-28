@@ -37,7 +37,6 @@ BairesDev - Machine Learning Practitioner (Bootcamp)
 
   <div>
     <img src="https://assets.dio.me/W6Z-2zohBDfZ1U1ULeJJwYyLxaWHmP7FuTtB4rMqRyY/f:webp/h:120/q:80/L3RyYWNrcy8xNTU1ODQ2Ny02YjgxLTQ3ODAtODQzOS02N2EyZjU0NjBmMjgucG5n" width="100px" height=" 100px">
-    
     TOTVS - Fundamentos de Engenharia de Dados e Machine Learning 
   </div> 
   
