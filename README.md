@@ -1,18 +1,25 @@
 ## Hi there 👋
 
-##Sobre mim:
+## Sobre mim:
 
 
 
 
 
 
-##Cursando:
+Cursando:
+
+
 <img src="https://sso.unifor.br/resources/3gf7x/login/unifor-tema/images/unifor-h-negativa.svg" width=" 100px" height=" 100px">
+
 3° semestre de análise de dados na UNIFOR
 
-#Bootcamp
+# Bootcamp
+
+
 <img src="https://assets.dio.me/kCPUcBRKwIhY3--gHdSspiZWdpUXMS2UD0wXM7klMb4/f:webp/h:120/q:80/L3RyYWNrcy81NzQ0ODVlZS0xZTk1LTQzMjAtOThlYy1kMTUyZGQ4ZDk5YmQucG5n" width="100px" height=" 100px">
+
+
 BairesDev - Machine Learning Practitioner
 
 
