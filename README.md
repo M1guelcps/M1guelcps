@@ -1,3 +1,14 @@
+<h1 align="center">Hi there! 👋 I'm Miguel</h1>
+
+<p align="center">
+  <b>Backend Developer | Automation | DevOps</b>
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,ts,docker,githubactions" />
+</p>
 <div align="center">
 
 # 📊 Resumo
