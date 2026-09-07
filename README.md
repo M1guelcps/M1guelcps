@@ -16,18 +16,32 @@
 </a>
 
 <br/><br/>
- ## projetos em andamento
-<a href="https://github.com/M1guelcps/onfly-UNIFOR-ABN26.2">
-  <img
-    width= "300cm"
-    src="https://github-stats-extended.vercel.app/api/pin?username=M1guelcps&repo=M1guelcps%2Fonfly-UNIFOR-ABN26.2&theme=dark"
-    alt="Onfly UNIFOR ABN26.2"
-  />
-  <img
-    width= "300cm"
-    src="https://github-stats-extended.vercel.app/api/pin?username=M1guelcps&repo=M1guelcps%2FDataController&theme=dark"
-    alt="Data-Controller"
-  />
-</a>
+
+## 🚀 Projetos em andamento
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/M1guelcps/onfly-UNIFOR-ABN26.2">
+        <img
+          width="400"
+          height="180"
+          src="https://github-stats-extended.vercel.app/api/pin?username=M1guelcps&repo=M1guelcps%2Fonfly-UNIFOR-ABN26.2&theme=dark"
+          alt="Onfly UNIFOR ABN26.2"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/M1guelcps/DataController">
+        <img
+          width="400"
+          height="180"
+          src="https://github-stats-extended.vercel.app/api/pin?username=M1guelcps&repo=M1guelcps%2FDataController&theme=dark"
+          alt="DataController"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
