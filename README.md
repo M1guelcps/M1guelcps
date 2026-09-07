@@ -15,7 +15,7 @@
   />
 </a>
 
-<br/><br/>
+<br/>
 
 ## 🚀 Projetos em andamento
 
